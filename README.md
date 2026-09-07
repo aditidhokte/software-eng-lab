@@ -1,1 +1,1 @@
-# software-eng-lab
+# SE-lab
